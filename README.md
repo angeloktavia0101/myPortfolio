@@ -1,0 +1,2 @@
+# myPortfolio
+Portofolio diriku sendiri.
