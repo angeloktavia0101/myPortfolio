@@ -1,0 +1,83 @@
+html{
+	scroll-behavior: smooth;
+}
+a img{
+	width: 40px;
+}
+h4 a{
+	padding-left: 20px;
+	/*color: white;*/
+	font-family: sans-serif;
+}
+nav{
+	background: rgb(2,0,36);
+	background: linear-gradient(45deg,rgba(2,0,36,2)0%,rgba(136,59,225,1)72%,rgba(0,212,255,1)100%);
+}
+button{
+	padding-left: 140px;
+}
+.nama{
+	padding-left: 10px;
+}
+body{
+	
+	overflow: visible;
+	font-family: comic sans ms;
+	
+}
+#h{
+	padding-left: 20px;
+}
+.midl{
+	background-color: ;
+	padding-top: 80px;
+}
+.midl h2{
+	/*color: white;*/
+	padding-bottom: 20px;
+}
+.gb{
+	height: 200px;
+	width: 200px;
+}
+.x{
+	font-size: 20px;
+}
+table p{
+	padding-top: 50px;
+}
+table a{
+	/*color: white;*/
+}
+hr{
+	width: 250px;
+	border: 1px solid #fff;
+}
+.sc{
+	padding-bottom: 20px;
+}
+.nn{
+	background: rgb(2,0,36);
+	background: linear-gradient(300deg,rgba(2,0,36,2)0%,rgba(136,59,225,1)72%,rgba(0,212,255,1)100%);
+}
+.wa:hover{
+	width: 175px;
+	font-size: 15px;
+}
+.ln:hover{
+	width: 175px;
+	height: 20px;
+	font-size: 15px;
+}
+.ds:hover{
+	width: 175px;
+	font-size: 15px;
+}
+.fb:hover{
+	width: 175px;
+	font-size: 15px;
+}
+.darkBody{
+	color: white;
+	background: rgb(2,0,36);
+}
