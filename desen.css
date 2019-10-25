@@ -1,0 +1,53 @@
+img{
+	width: 175px;
+}
+#gambar h1{
+	margin: 20px;
+	margin-top: 50px;
+	color: #ccccff;
+	font-family: bradley hand itc;
+	font-size: 50px;
+}
+body{
+	background-image: url(img/blackwall.jpg);
+	background-size: 1525px 750px;
+	overflow: hidden;
+}
+#gambar{
+	padding-top: 225px;
+	padding-left: 40px;
+
+}
+.teks{
+	padding-top: 325px;
+	font-family: berlin sans fb;
+	padding-right: 90px;
+}
+.teks a{
+	color: white;
+}
+.isi{
+	min-height: 753px;
+}
+.btn span{
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+}
+.btn span:after{
+	content: '\00bb';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -20px;
+	transition: 0.5s;
+}
+.btn:hover span{
+	padding-right:25px;
+}
+.btn:hover span:after{
+	opacity: 1;
+	right: 0;
+}
+
